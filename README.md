@@ -1,6 +1,6 @@
 # Fibonacci CLI in Rust
 
-A simple command-line Fibonacci calculator written in Rust. This project is a way to get familiar with Rust's syntax.
+A very simple command-line Fibonacci calculator written in Rust. This project is a way to get familiar with Rust's syntax.
 
 ## Usage
 
